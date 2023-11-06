@@ -1,91 +1,11 @@
-.navbar {
-    background-image: url("../assets/bgtexture.jpg");
-    background-size: auto;
+* {
+    background-image: url(../assets/Montauk-Regular/bgtexture.jpg);
+    background-size: cover;
+}
+
+.heroImg {
+    background-image: url(../assets/Montauk-Regular/homeHero.jpg);
+    background-size: cover;
+    height: 600px;
     background-position: center;
-}
-
-.navbarFont {
-    font-family: 'Fugaz One';
-    font-size: 1.25rem;
-}
-/********* NavBar - End *********/
-
-/********* ALL PAGES - Start *********/
-@font-face {
-    font-family: 'Montauk-Regular';
-    src: url("../assets/Montauk-Regular/Montauk-Regular.otf");
-}
-
-body {
-    background-image: url('../assets/bgtexture.jpg');
-    background-size: auto;
-}
-
-.fontColor {
-    color: #5F002B;
-}
-
-.bgWhite {
-    background-color: #FFFFFF;
-}
-/********* ALL PAGES - End *********/
-
-/********* FOOTER - Start *********/
-.footerText {
-    font-family: 'Montauk-Regular';
-    font-size: 1.25rem;
-    line-height: 0.8rem;
-}
-
-.ourHeadbg{
-    background-color: white;
-    width: 1640px;
-   
-}
-h1 {
-    font-family: Fugaz One, regular;
-    color: #5F002B;
-    font-weight: bold;
-    
-}
-
-h2{
-    font-size: 30px;
-    font-weight: bold;
-    font-family: 'Montauk-Regular';
-    color: #5F002B;
-}
-
-h3{
-    font-size: 30px;
-    font-family: 'Montauk-Regular';
-    color: #5F002B;
-}
-p{font-size: 20px;
-    font-family: 'Montauk-Regular';
-    /* width: 600px; */
-    color: #5F002B;
-}
-
-hr{
-   border-color: #980051;
- 
-   
-}
-
-/* .cardSize{
-     width: 634px;
-     height: 19px; ;
-} */
-
-
-.footerText {
-    font-family: 'Montauk-Regular';
-    font-size: 1.25rem;
-    line-height: 0.8rem;
-}
-
-.flexCenter {
-    display: flex;
-    justify-content: center;
 }
