@@ -2,10 +2,3 @@
     background-image: url(../assets/Montauk-Regular/bgtexture.jpg);
     background-size: cover;
 }
-
-.heroImg {
-    background-image: url(../assets/Montauk-Regular/homeHero.jpg);
-    background-size: cover;
-    height: 600px;
-    background-position: center;
-}
