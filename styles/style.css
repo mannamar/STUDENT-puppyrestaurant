@@ -58,3 +58,75 @@ body {
     line-height: normal;
 }
 /********* Home Page - End *********/
+
+/****** Catering Page Start ******/
+
+.cateringHead {
+    text-align: center;
+    font-family: 'Fugaz One';
+    font-size: 3.125rem;
+}
+
+.border {
+    border: solid;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.cateringPar {
+    font-size: 1.25rem;
+    font-family: 'Montauk-Regular';
+    line-height: 1.25rem;
+}
+
+.cateringHead2 {
+    font-family: 'Fugaz One';
+    font-size: 1.875rem;
+}
+
+@media only screen and (max-width: 768px){
+    .lgOnly {
+        display: none;
+    }
+}
+
+.borderPadding {
+    padding: 2rem;
+}
+
+.mobileCatering {
+    padding-left: 2rem;
+    height: 20rem;
+    overflow: scroll;
+}
+
+.textAlign {
+    text-align: center;
+}
+/****** Catering Page End ******/
+
+
+/****** Photos Page Start ******/
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.medButtonBorder {
+    border: solid white;
+    background-color: black; 
+    margin-top: 12rem; 
+    margin-bottom: 12rem; 
+    width: 1.5rem; 
+    opacity: 0.5;
+}
+
+.buttonBorder {
+    border: solid white;
+    background-color: black; 
+    margin-top: 7rem; 
+    margin-bottom: 7rem; 
+    width: 0.8rem; 
+    opacity: 0.5;
+}
+/****** Photos Page End ******/
