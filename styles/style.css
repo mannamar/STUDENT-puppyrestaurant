@@ -1,0 +1,132 @@
+/********* NavBar - Start *********/
+.navbar {
+    background-image: url(../assets/Montauk-Regular/bgtexture.jpg);
+    background-size: auto;
+    background-position: center;
+}
+
+.navbarFont {
+    font-family: 'Fugaz One';
+    font-size: 1.25rem;
+}
+/********* NavBar - End *********/
+
+/********* ALL PAGES - Start *********/
+@font-face {
+    font-family: 'Montauk-Regular';
+    src: url(../assets/Montauk-Regular/Montauk-Regular.otf);
+}
+
+body {
+    background-image: url(../assets/Montauk-Regular/bgtexture.jpg);
+    background-size: auto;
+}
+
+.fontColor {
+    color: #5F002B;
+}
+
+.bgWhite {
+    background-color: #FFFFFF;
+}
+/********* ALL PAGES - End *********/
+
+/********* FOOTER - Start *********/
+.footerText {
+    font-family: 'Montauk-Regular';
+    font-size: 1.25rem;
+    line-height: 0.8rem;
+}
+/********* FOOTER - End *********/
+
+/********* Home Page - Start *********/
+.heroImg {
+    background-image: url(../assets/Montauk-Regular/homeHero.jpg);
+    background-size: cover;
+    height: 37.5rem;
+    background-position: center;
+}
+
+.homeHeader {
+    font-family: 'Fugaz One';
+    font-size: 3.13rem;
+}
+
+.homePText {
+    font-family: 'Montauk-Regular';
+    font-size: 1.25rem;
+    line-height: normal;
+}
+/********* Home Page - End *********/
+
+/****** Catering Page Start ******/
+
+.cateringHead {
+    text-align: center;
+    font-family: 'Fugaz One';
+    font-size: 3.125rem;
+}
+
+.border {
+    border: solid;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.cateringPar {
+    font-size: 1.25rem;
+    font-family: 'Montauk-Regular';
+    line-height: 1.25rem;
+}
+
+.cateringHead2 {
+    font-family: 'Fugaz One';
+    font-size: 1.875rem;
+}
+
+@media only screen and (max-width: 768px){
+    .lgOnly {
+        display: none;
+    }
+}
+
+.borderPadding {
+    padding: 2rem;
+}
+
+.mobileCatering {
+    padding-left: 2rem;
+    height: 20rem;
+    overflow: scroll;
+}
+
+.textAlign {
+    text-align: center;
+}
+
+/****** Catering Page End ******/
+
+
+/****** Photos Page Start ******/
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.medButtonBorder {
+    border: solid white;
+    background-color: black; 
+    margin-top: 12rem; 
+    margin-bottom: 12rem; 
+    width: 1.5rem; 
+    opacity: 0.5;
+}
+
+.buttonBorder {
+    border: solid white;
+    background-color: black; 
+    margin-top: 7rem; 
+    margin-bottom: 7rem; 
+    width: 0.8rem; 
+    opacity: 0.5;
+}
