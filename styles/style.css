@@ -131,6 +131,18 @@ body {
 }
 /****** Photos Page End ******/
 
+/****** Sinatha Footer Start ******/
+.flexCenter {
+    display: flex;
+    justify-content: center;
+}
+
+/****** Sinatha Footer Start ******/
+.flexCenter {
+    display: flex;
+    justify-content: center;
+}
+
 /********* NavBar - Start *********/
 .navbar {
     background-image: url(../assets/Montauk-Regular/bgtexture.jpg);
