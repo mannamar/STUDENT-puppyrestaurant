@@ -131,3 +131,9 @@ body {
 }
 /****** Photos Page End ******/
 
+/****** Sinatha Footer Start ******/
+.flexCenter {
+    display: flex;
+    justify-content: center;
+}
+
