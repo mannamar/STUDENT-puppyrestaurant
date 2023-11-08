@@ -39,11 +39,13 @@ body {
 
 .ourHeadbg{
     background-color: white;
-  
+    width: 1640px;
+   
 }
 h1 {
     font-family: Fugaz One, regular;
     color: #5F002B;
+    font-weight: bold;
     
 }
 
