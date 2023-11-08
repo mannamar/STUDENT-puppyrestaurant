@@ -37,6 +37,11 @@ body {
     font-size: 1.25rem;
     line-height: 0.8rem;
 }
+
+.flexCenter {
+    display: flex;
+    justify-content: center;
+}
 /********* FOOTER - End *********/
 
 /********* Home Page - Start *********/
@@ -130,10 +135,3 @@ body {
     opacity: 0.5;
 }
 /****** Photos Page End ******/
-
-/****** Sinatha Footer Start ******/
-.flexCenter {
-    display: flex;
-    justify-content: center;
-}
-
