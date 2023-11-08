@@ -284,16 +284,29 @@ body {
     background-color: white;
   
 }
+h1 {
+    font-family: Fugaz One, regular;
+    color: #5F002B;
+    
+}
 
 h2{
     font-size: 30px;
     font-weight: bold;
+    font-family: 'Montauk-Regular';
+    color: #5F002B;
 }
 
 h3{
     font-size: 30px;
+    font-family: 'Montauk-Regular';
+    color: #5F002B;
 }
-p{font-size: 20px;}
+p{font-size: 20px;
+    font-family: 'Montauk-Regular';
+    /* width: 600px; */
+    color: #5F002B;
+}
 
 hr{
    border-color: #980051;
@@ -305,3 +318,15 @@ hr{
      width: 634px;
      height: 19px; ;
 } */
+
+
+.footerText {
+    font-family: 'Montauk-Regular';
+    font-size: 1.25rem;
+    line-height: 0.8rem;
+}
+
+.flexCenter {
+    display: flex;
+    justify-content: center;
+}
