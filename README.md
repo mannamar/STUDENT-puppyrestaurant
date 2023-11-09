@@ -10,7 +10,7 @@ Brief Description: Take the following mockup and make it into a fully functionin
                    This is a group project where each member will create and update their own branch.
 
 
-Mid Review:
+Jessie Mid Review:
 - Multiple pages:
   - Navbar has some extra padding on mobile
   - Some images are getting stretched
