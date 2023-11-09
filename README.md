@@ -15,7 +15,7 @@ Jessie Mid Review:
   - Navbar has some extra padding on mobile (fixed on 11/9/23 at 8:55am)
   - Some images are getting stretched
   - Fonts are not the same (checked on 11/9/23 at 10:20 am)
-- homePage: Image and title box not matching height on 1920px
+- homePage: Image and title box not matching height on 1920px (fixed on 11/9/23 at 10:52am)
 
 
 # Peer Review
