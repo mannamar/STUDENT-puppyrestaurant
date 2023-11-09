@@ -134,6 +134,10 @@ body {
     width: 0.8rem; 
     opacity: 0.5;
 }
+
+.noCorner {
+    border-radius: 0;
+}
 /****** Photos Page End ******/
 
 
