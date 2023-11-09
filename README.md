@@ -29,9 +29,9 @@ About me- the 1920 looks good the only think i would do is add some padding unde
 
 Menu- the line spaceing is slightly to big and the fonts of the discription text under the entrees should be 20px. The our menu could also use a little padding on the top and bottom to get the white space on the figma. Also the our menu isnt lined up with the cards. I like the responseiveness but the text overflows the card around 1450 px range. maybe you can make the cards a col 12 a little bit to fix that. It is also missing the footer at 1920 but i like how it goes to the center at phone sizes. i think the footer also has to be lined up with the cards on 1920.
 
-catering- I like the catering 1920 page it looks good. For responsiveness I suggest too get rid of some photos at smaller sizes and to line them up with each other.
+catering- I like the catering 1920 page it looks good. For responsiveness I suggest too get rid of some photos at smaller sizes and to line them up with each other. (fixed, took out some photos at smaller sizes 11/9/23 at 2:45pm)
 
-phots- it looks good on 1920 but the photos header is a little too close to the top row of photos. also its like an exta pixel wide.  I would set a background color of white to the text to achieve something similar without the exta pixel width. All the photos disappear at 1080ish.
+phots- it looks good on 1920 but the photos header is a little too close to the top row of photos. also its like an exta pixel wide.  I would set a background color of white to the text to achieve something similar without the exta pixel width. All the photos disappear at 1080ish. (fixed photos at 1080px 11/9/23 at 2:32 pm, fixed closeness of header 11/9/23 at 2:24pm)
 
 I know the footer is the right font but if you make it thin the underscores in the phone number will turn into - dashes like this. id ask a ta if thats fine or not. 
 
