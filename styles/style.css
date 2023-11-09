@@ -137,11 +137,13 @@ body {
 /****** Photos Page End ******/
 
 
-/* .ourHeadbg{
-    background-color: white;
+.ourHeadbg{
+    /* background-color: white;
+  background-size: cover; */
+  font-family: 'Fugaz One';
   
 }
-
+/*  
 h2{
     font-size: 30px;
     font-weight: bold;
@@ -168,7 +170,7 @@ hr{
 /* Menu css */
 
 .cardSize{
-    height: 724px;
+    height: 986px;
 }
 
 
@@ -199,6 +201,7 @@ h4{
     font-size: 20px;
     color: #5F002B;
     text-align: center;
+    
     
 }
 
