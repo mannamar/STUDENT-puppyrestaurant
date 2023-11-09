@@ -170,8 +170,9 @@ hr{
 /* Menu css */
 
 .cardSize{
-    height: 986px;
+    height: 1000px;
 }
+
 
 
 .menuTitle{
@@ -198,23 +199,31 @@ p{
 
 h4{
     font-family: 'Montauk-Regular';
-    font-size: 20px;
+    font-size: 35px;
     color: #5F002B;
-    text-align: center;
-    
+    text-align: end;
+    margin-top: 5px;
     
 }
 
-
+hr{
+    /* margin-bottom: 100px; */
+    border-color: #5F002B;
+}
 .foodPrice{
 
 }
 
-@media screen {
-    
+.cardBody{ padding-left: 50px;
+    padding-right: 50px;
+
 }
 
-
+@media  screen and (max-width: 768px) {
+    .small{
+        display: show ;
+    }
+}
 
 
 /* menu end */
