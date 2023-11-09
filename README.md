@@ -12,7 +12,7 @@ Brief Description: Take the following mockup and make it into a fully functionin
 
 Jessie Mid Review:
 - Multiple pages:
-  - Navbar has some extra padding on mobile
+  - Navbar has some extra padding on mobile (fixed on 11/9/23 at 8:55am)
   - Some images are getting stretched
   - Fonts are not the same
 - homePage: Image and title box not matching height on 1920px
