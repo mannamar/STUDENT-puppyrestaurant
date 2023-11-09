@@ -163,3 +163,60 @@ hr{
      height: 19px; ;
 } */
 
+
+
+/* Menu css */
+
+.cardSize{
+    height: 724px;
+}
+
+
+.menuTitle{
+    font-family: 'Fugaz One';
+    font-size: 30px;
+    color: #5F002B;
+    font-weight: bold;
+}
+
+.foodTitle{
+    font-size: 30px;
+    color: #5F002B;
+    font-family: 'Montauk-Regular';
+    
+
+}
+
+p{
+    font-size: 15px;
+    color: #5F002B;
+    font-family: 'Montauk-Regular';
+    
+}
+
+h4{
+    font-family: 'Montauk-Regular';
+    font-size: 20px;
+    color: #5F002B;
+    text-align: center;
+    
+}
+
+
+.foodPrice{
+
+}
+
+@media screen {
+    
+}
+
+
+
+
+/* menu end */
+
+
+
+
+
