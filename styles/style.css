@@ -141,29 +141,68 @@ body {
 /****** Photos Page End ******/
 
 
-/* .ourHeadbg{
-    background-color: white;
-  
+.ourHeadbg{
+  font-family: 'Fugaz One';
 }
 
-h2{
+
+/* Menu css */
+
+.cardSize{
+    height: 1000px;
+}
+
+
+
+.menuTitle{
+    font-family: 'Fugaz One';
     font-size: 30px;
+    color: #5F002B;
     font-weight: bold;
 }
 
-h3{
+.foodTitle{
     font-size: 30px;
+    color: #5F002B;
+    font-family: 'Montauk-Regular';
+    
+
 }
-p{font-size: 20px;}
+
+p{
+    font-size: 15px;
+    color: #5F002B;
+    font-family: 'Montauk-Regular';
+    
+}
+
+h4{
+    font-family: 'Montauk-Regular';
+    font-size: 35px;
+    color: #5F002B;
+    text-align: end;
+    margin-top: 5px;
+    
+}
 
 hr{
-   border-color: #980051;
- 
-   
+    /* margin-bottom: 100px; */
+    border-color: #5F002B;
+}
+/* .foodPrice{
+
 } */
 
-/* .cardSize{
-     width: 634px;
-     height: 19px; ;
-} */
+.cardBody{ padding-left: 50px;
+    padding-right: 50px;
 
+}
+
+@media  screen and (max-width: 768px) {
+    .small{
+        display: show ;
+    }
+}
+
+
+/* menu end */
