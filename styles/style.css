@@ -148,7 +148,7 @@ body {
 /* Menu css */
 
 .cardSize{
-    height: 1150px;
+    height: 1290px;
 }
 
 
@@ -185,12 +185,9 @@ h4{
 }
 
 hr{
-    /* margin-bottom: 100px; */
     border-color: #5F002B;
 }
-/* .foodPrice{
 
-} */
 
 .cardBody{ padding-left: 50px;
     padding-right: 50px;
