@@ -148,7 +148,7 @@ body {
 /* Menu css */
 
 .cardSize{
-    height: 1000px;
+    height: 1150px;
 }
 
 
@@ -161,15 +161,15 @@ body {
 }
 
 .foodTitle{
-    font-size: 30px;
+    font-size: 35px;
     color: #5F002B;
     font-family: 'Montauk-Regular';
     
 
 }
 
-p{
-    font-size: 15px;
+.foodp{
+    font-size: 22px;
     color: #5F002B;
     font-family: 'Montauk-Regular';
     
